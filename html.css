@@ -1,0 +1,103 @@
+.z  {
+    margin-bottom: 20px;
+
+     
+}
+.predy {
+    background-color: aliceblue;
+    border:4px solid blue;
+    border-radius: 10px;
+    border-right: solid red;
+    border-bottom: solid red;
+    border-top: solid red;
+    padding-left: 30px ;
+    color: black;
+    margin-bottom: 20px;
+}
+.a {
+background-color: aliceblue;
+    border:4px solid blue;
+    border-radius: 10px;
+    border-right: solid red;
+    border-bottom: solid red;
+    border-top: solid red;
+    padding-left: 30px ;
+    color: black;
+    margin-bottom: 20px;
+}
+.b {
+    background-color: aliceblue;
+    border:4px solid blue;
+    border-radius: 10px;
+    border-right: solid red;
+    border-bottom: solid red;
+    border-top: solid red;
+    padding-left: 30px ;
+    color: black;
+    margin-bottom: 20px;
+}
+.c {
+    background-color: aliceblue;
+    border:4px solid blue;
+    border-radius: 10px;
+    border-right: solid red;
+    border-bottom: solid red;
+    border-top: solid red;
+    padding-left: 30px ;
+    color: black;
+    margin-bottom: 20px;
+}
+
+label {
+    font-size: 30px;
+}
+button{
+     font-size: 40px;
+}
+
+
+ header ,footer {
+    background-color: #1e293b;
+text-align: center;
+color: white;
+padding: 30px;
+
+}
+a{color: lightcyan;}
+main{
+    
+    max-width: 900px;
+    margin: 30px auto;
+    background-color: white;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+img {
+    height: 600px;
+width: 800px;
+border-radius: 10px;
+border: 3px solid red;
+margin-bottom:20px ;
+
+}
+fieldset { border: 4px solid blue;
+border-radius: 15px;
+background-color:aliceblue ;
+}
+legend{color: red;
+font-size: 40px;}
+body{font-family: "Segoe UI", Arial, sans-serif;
+    background-color: #f9fafb;
+    color: #222;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;}
+    button{ background-color: cyan;
+    
+   
+    
+    }
+    textarea{resize: vertical;
+    width: 800px
+    ;}
